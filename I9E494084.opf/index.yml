@@ -1,0 +1,35 @@
+id: ed06d81798b743cfa9a6a89fd8690c23
+annotation_type: index
+revision: '00001'
+annotations:
+  fa8186d0e39a4f5cb258df437fa50555:
+    base: 5A25.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 13
+    - title: Preface
+      span:
+        start: 14
+        end: 24
+    - title: Chapters 1-10
+      span:
+        start: 25
+        end: 22473
+    - title: Chapters 11-20
+      span:
+        start: 22474
+        end: 43575
+    - title: Chapters 21-26
+      span:
+        start: 43576
+        end: 65008
+    - title: Colophon
+      span:
+        start: 65009
+        end: 65019
+    - title: Additional verses not in the Pāli edition
+      span:
+        start: 65020
+        end: 65052

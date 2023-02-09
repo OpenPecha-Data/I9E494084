@@ -1,0 +1,16 @@
+id: I9E494084
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:37:32.221981
+last_modified: 2023-02-10 00:37:32.222076
+source_metadata:
+  title: Dhammapada
+  language: en
+bases:
+  5A25:
+    base_file: 5A25.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
